@@ -1,0 +1,16 @@
+   /*Hero*/
+   #banner {
+    background: linear-gradient(rgba(0,0,0,0.5), #009698), url("../images/Banner-image.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    position: relative;
+   }
+
+   /*Logo*/
+   .logo {
+    width: 140px;
+    position: absolute;
+    top: 4%;
+    left: 5%;
+   }
