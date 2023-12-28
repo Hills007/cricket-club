@@ -14,3 +14,17 @@
     top: 4%;
     left: 5%;
    }
+
+   /*Banner Text*/
+   .banner-text {
+    text-align: center;
+    color: #ffffff;
+    padding-top: 180px;
+   }
+    .banner-text h1 {
+font-size: 100px;
+   }
+   .banner-text p {
+    font-size: 30px;
+    font-style: italic;
+   }
