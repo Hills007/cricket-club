@@ -1,4 +1,11 @@
-   /*Hero*/
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+ 
+  
+  /*Hero*/
    #banner {
     background: linear-gradient(rgba(0,0,0,0.5), #009698), url("../images/Banner-image.jpg");
     background-size: cover;
@@ -23,6 +30,7 @@
    }
     .banner-text h1 {
 font-size: 100px;
+font-family: 'Kaushan Script', cursive;
    }
    .banner-text p {
     font-size: 30px;
